@@ -1,2 +1,2 @@
 # Welcome to Rujing's Org
-## Hi, How are you! 
+Hi, How are you! 
