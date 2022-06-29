@@ -1,1 +1,2 @@
-# Git101-homework
+# Welcome to Rujing's Org
+## Hi, How are you! 
